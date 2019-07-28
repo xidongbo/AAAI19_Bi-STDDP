@@ -15,9 +15,9 @@ Keras==2.1.0
 tensorflow-gpu==1.2.1  
 
 # Example to run the codes.
-'''
+```
 python Bi-STDDP.py --embedded_dim 64 --hidden_unit 256 --length 5 --batch_size 256 --dropout 0.5 --lr 0.001 --nb_epoch 50 --earlystop 1 --model_name STDDP.model --dataset NYC 
-'''
+```
 
 The instruction of commands has been clearly stated in the codes (see the parse_args function).
 
