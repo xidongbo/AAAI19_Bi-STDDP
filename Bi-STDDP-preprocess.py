@@ -1,3 +1,9 @@
+#encoding:utf8
+'''
+Preprocess code for Bi-directional Spatio-Temporal Dependence and Users’ Dynamic Preferences Model( Bi-STDDP) .
+@author:
+xidongbo17s@ict.ac.cn
+'''
 import os
 import pandas as pd
 import time
