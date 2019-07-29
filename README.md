@@ -3,7 +3,7 @@ Keras Implementation of Bi-directional Spatio-Temporal Dependence and Users’ D
 
 Code for the paper:
 
-Dongbo Xi, Fuzhen Zhuang, Yanchi Liu, Jingjing Gu, Hui Xiong, Qing He: Modelling of Bi-directional Spatio-Temporal Dependence and Users' Dynamic Preferences for Missing POI Check-in Identification. AAAI 2019. 
+Dongbo Xi, Fuzhen Zhuang, Yanchi Liu, Jingjing Gu, Hui Xiong, Qing He: Modelling of Bi-directional Spatio-Temporal Dependence and Users' Dynamic Preferences for Missing POI Check-in Identification. AAAI 2019: 5458-5465
 
 Please cite our AAAI'19 paper if you use our codes. Thanks!
 
