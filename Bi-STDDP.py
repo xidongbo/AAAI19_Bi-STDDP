@@ -267,7 +267,7 @@ class STDDP(object):
                         x2_s = np.array(x2_s, dtype=np.float32)
                         y_t1 = np.array(y_t1, dtype=np.float32)
                         y_t2 = np.array(y_t2, dtype=np.float32)
-                        y_t2 = np.array(y_t2, dtype=np.float32)
+                        user = np.array(user, dtype=np.int)
                         y = np.array(y, dtype=np.int)
                         yield ([x1, x2, x1_t, x2_t, x1_s, x2_s, y_t1, y_t2, user], y)
                 if not flag:
