@@ -1,3 +1,20 @@
+# Reference
+If you are interested in the code, please cite our paper:
+```
+Xi D, Zhuang F, Liu Y, et al. Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 5458-5465.
+```
+or in bibtex style:
+```
+@inproceedings{xi2019modelling,
+  title={Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification},
+  author={Xi, Dongbo and Zhuang, Fuzhen and Liu, Yanchi and Gu, Jingjing and Xiong, Hui and He, Qing},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={5458--5465},
+  year={2019}
+}
+```
 # AAAI19_Bi-STDDP
 Keras Implementation of Bi-directional Spatio-Temporal Dependence and Users’ Dynamic Preferences Model
 
