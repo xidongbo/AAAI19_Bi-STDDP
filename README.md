@@ -1,20 +1,3 @@
-# Reference
-If you are interested in the code, please cite our paper:
-```
-Xi D, Zhuang F, Liu Y, et al. Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 5458-5465.
-```
-or in bibtex style:
-```
-@inproceedings{xi2019modelling,
-  title={Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification},
-  author={Xi, Dongbo and Zhuang, Fuzhen and Liu, Yanchi and Gu, Jingjing and Xiong, Hui and He, Qing},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={33},
-  number={01},
-  pages={5458--5465},
-  year={2019}
-}
-```
 # AAAI19_Bi-STDDP
 Keras Implementation of Bi-directional Spatio-Temporal Dependence and Users’ Dynamic Preferences Model
 
@@ -42,5 +25,23 @@ The instruction of commands has been clearly stated in the codes (see the parse_
 We use the real-world LBSN datasets from Foursquare. [https://sites.google.com/site/yangdingqi/home/foursquaredataset]
 
 Split the data to train/validation/test files to run the codes directly (see Bi-STDDP-preprocess.py).
+
+# Reference
+If you are interested in the code, please cite our paper:
+```
+Xi D, Zhuang F, Liu Y, et al. Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33(01): 5458-5465.
+```
+or in bibtex style:
+```
+@inproceedings{xi2019modelling,
+  title={Modelling of bi-directional spatio-temporal dependence and users’ dynamic preferences for missing poi check-in identification},
+  author={Xi, Dongbo and Zhuang, Fuzhen and Liu, Yanchi and Gu, Jingjing and Xiong, Hui and He, Qing},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={5458--5465},
+  year={2019}
+}
+```
 
 Last Update Date: July 28, 2019
